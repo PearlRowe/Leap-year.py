@@ -1,3 +1,5 @@
+## ROWE PEARL ROWENA INDANA
+#SCT211-0678/2021
 year=int("input year to be checked")
 if (year%400==0):
   print("%d is a leap year"%year)
